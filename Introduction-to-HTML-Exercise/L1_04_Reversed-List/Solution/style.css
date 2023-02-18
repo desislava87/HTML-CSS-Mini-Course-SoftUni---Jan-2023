@@ -1,0 +1,18 @@
+main {
+    width: 300px;
+    background-color: rgb(230, 229, 229);
+    margin:auto;
+    padding: 25px 25px 20px 20px;
+    color: rgb(73, 72, 72);
+}
+
+h3 {
+    color: rgb(35, 68, 61);
+    text-align: center;
+}
+
+li {
+    border-bottom: 1px solid black;
+    padding-top: 5px;
+    
+}

@@ -1,0 +1,9 @@
+  section {
+    display: inline-block;
+    height: 400px;
+    border: 1px solid black;
+}
+
+img {
+    width: 300px;
+}
